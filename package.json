@@ -1,0 +1,14 @@
+{
+  "name": "dsh-litellm-throttle",
+  "displayName": "LiteLLM Throttle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Auto-manage local LiteLLM rate-limiting proxy (RPM/TPM) on port 4000",
+  "keywords": [
+    "cordis",
+    "dsh-plugin"
+  ],
+  "cordis": {
+    "name": "litellm-throttle"
+  }
+}
